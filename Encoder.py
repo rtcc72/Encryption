@@ -1,13 +1,7 @@
-''' Name: Ryan Campbell
-Date: 4/2/2023
-Assignment: Final Project
-Pseudocode:For part B, I implemented a simple, yet efficient menu that allows the user to login as an administrator
-or as a normal user. If the user chooses admin, they are allowed to change the shift value for the entire program.
-If the user chooses to continue as a normal user, the shift value is hardcoded to be the value of 3. Both encryption
-and decryption methods are the same throughout the program(Based off of the Ceasar Cipher) but will be changed.
-Later installments of this code will take the users input and encrypt it with the cyberSecurity class, pass
-that string (or strings) to another Encryption method (that the user chooses) and will continuesly do this until the user
-chooses to stop they choose to decrypt.
+''' 
+Name: Ryan Campbell
+Date: 4/15/2023
+Description: This code allows the user to encode a string
 '''
 
 class cyberSecurity:
